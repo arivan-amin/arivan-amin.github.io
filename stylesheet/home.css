@@ -12,3 +12,8 @@ body {
     width: 100%;
     height: auto;
 }
+.clock-text {
+    font-size: 5rem;
+    letter-spacing: .5rem;
+    color: #444444;
+}
