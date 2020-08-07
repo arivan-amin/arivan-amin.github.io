@@ -8,6 +8,12 @@ body {
 .main-container {
     margin-top: 5rem;
 }
+.search-icon-div {
+    cursor: pointer;
+}
+.search-icon {
+    cursor: pointer;
+}
 .link-img {
     width: 100%;
     height: auto;
